@@ -2,8 +2,14 @@
 
 **CAEX** is a lightweight, high-performance hardware monitoring utility for Windows. Designed for gamers that don't want a wall of text, CAEX bridges the gap between raw data and stylish design.
 
-![License](https://img.shields.io/badge/license-Proprietary-red.svg)
-![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)
+<div align="center">
+
+# CAEX Hardware Monitor 🚀
+
+[![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)](#)
+
+</div>
 
 ## ✨ Key Features
 
