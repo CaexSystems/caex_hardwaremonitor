@@ -1,0 +1,18 @@
+Copyright (c) 2024-2026 Skyrox
+
+ALL RIGHTS RESERVED.
+
+This software and all associated files are the sole property of [Your Name/Username]. 
+
+Permission is hereby granted to any person obtaining a copy of this software (the "Executable") to use the software for personal or commercial purposes, subject to the following conditions:
+
+1. The software may not be modified, decompiled, disassembled, or reverse-engineered.
+2. The software may not be redistributed or sold without express written permission from the author.
+3. The software is provided "as is", without warranty of any kind, express or implied.
+
+In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
+
+LibreHardwareMonitor: https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/blob/master/LICENSE
+Lucide icons: https://lucide.dev/license
+psutil: https://github.com/giampaolo/psutil/blob/master/LICENSE
+PySide6 (Qt for Python): https://doc.qt.io/qtforpython/licenses.html
