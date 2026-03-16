@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <em>The CAEX Main Monitor showing real-time CPU, GPU, and RAM stats.</em>
+  <em>The CAEX Main Monitor showing intervaled CPU, GPU, and RAM stats.</em>
 </p>
 
 ## 🛠 Installation & Setup
