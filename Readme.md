@@ -13,6 +13,14 @@
 - **Power User Toolkit:** Quick-access actions to kill stubborn processes, open file locations, or search for mysterious system tasks.
 - **Ultra-Lightweight:** Compiled with Nuitka for native performance and a tiny memory footprint.
 
+<p align="center">
+  <img src="assets/main_tab.png" width="800" alt="CAEX Main Dashboard">
+</p>
+
+<p align="center">
+  <em>The CAEX Main Monitor showing real-time CPU, GPU, and RAM stats.</em>
+</p>
+
 ## 🛠 Installation & Setup
 
 ### General Setup
@@ -24,7 +32,7 @@ If you want to pull data from a remote machine or view CAEX data on another devi
 1. Ensure the host machine is running **LibreHardwareMonitor** with the **Remote Web Server** enabled (usually Port 8085).
 2. In the CAEX **Settings** tab, navigate to the **Network/Remote** section.
 3. Enter the `IP Address` and `Port` of the host machine.
-4. Toggle "Enable Remote Sync." CAEX will now bridge the data to your local dashboard.
+4. Click "Connect", and CAEX will now bridge the data to your local dashboard.
 
 ## 🔒 Privacy & Security
 
