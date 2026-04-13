@@ -1,4 +1,10 @@
-# CAEX Hardware Monitor 🚀
+<p align="left">
+  <img src="assets/caex_logo.png" width="200" alt="CAEX Main Dashboard">
+</p>
+<p align="left">
+  <h1>CAEX Hardware Monitor </h1>
+</p>
+
 
 **CAEX** is a lightweight, high-performance hardware monitoring utility for Windows. Designed for gamers that don't want a wall of text, CAEX bridges the gap between raw data and stylish design.
 
