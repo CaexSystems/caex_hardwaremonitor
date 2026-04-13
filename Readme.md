@@ -43,11 +43,13 @@ If you want to pull data from a remote machine, like a server or another PC:
 
 ** ⬆️ Supporter Donation £3 **
 - **Themes:** A Selection of themes, the main one being the default dark *burple*, a light, cyberpunk and discord colour set.
+  
 ** 🪙 Gold Donation £5 **
 - *Previous tier.*
 - **Web Panel:** Launches a self-hosted web panel that you can view via any device with web access to the local network.
-        *This is **ONLY** hosted locally, up to the user if they want to port forward*
-        The Web Panel mimics only a lesser version of the Main Monitor Tab and the Game Tab. An APK is in the works that will read the Web Panel for easier access.
+        *This is **ONLY** hosted locally, up to the user if they want to port forward*.
+         The Web Panel mimics only a lesser version of the Main Monitor Tab and the Game Tab. An APK is in the works that will read the Web Panel for easier access.
+  
 ** 💎 Platinum Donation £10 **
 - *Previous tier. But nothing as of this moment has been added to this tier*
 
