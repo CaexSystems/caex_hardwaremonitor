@@ -16,3 +16,4 @@ LibreHardwareMonitor: https://github.com/LibreHardwareMonitor/LibreHardwareMonit
 Lucide icons: https://lucide.dev/license
 psutil: https://github.com/giampaolo/psutil/blob/master/LICENSE
 PySide6 (Qt for Python): https://doc.qt.io/qtforpython/licenses.html
+PresentMon: https://github.com/GameTechDev/PresentMon/blob/main/LICENSE.txt
