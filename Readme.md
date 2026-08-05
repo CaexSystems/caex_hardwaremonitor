@@ -55,9 +55,14 @@ If you want to pull data from a remote machine, like a server or another PC:
 - **Web Panel:** Launches a self-hosted web panel that you can view via any device with web access to the local network.
         *This is **ONLY** hosted locally, up to the user if they want to port forward*.
          The Web Panel mimics only a lesser version of the Main Monitor Tab and the Game Tab. An APK is in the works that will read the Web Panel for easier access.
+- **Remote Panel:** If you have Librehardware Monitor hosting on another machine, like a windows server, this remote panel can read from that.
   
 ** 💎 Platinum Donation £10 **
-- *Previous tier. But nothing as of this moment has been added to this tier*
+- **Addons**
+  - **Pulse:** Is a deck-style tab that has a grid of buttons, think other deck-style applications/hardware.
+          Allowing buttons to do tasks, show info, widgets ect. This does mean it has a longer setup for integrations.
+  - **Guardian:** Lightweight system that monitors temps and other stats, and warns user.
+  - **Lens:** Lightweight GUI that stays on top of the selected window, showing stats like FPS and Temps.
 
   
 ## 🔒 Privacy & Security
